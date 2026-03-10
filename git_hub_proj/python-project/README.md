@@ -157,60 +157,20 @@ Example:
 1. Execute the .exe or .deb file through a terminal of choice (Programm is CLI only with the exception of the login page)
 2. Done 
 ----
-## Timeline
 
-Due to most of the group not attenting the lecture in person and wildly differnt time schedules, meetings will mostlikely be rare. (Work will be done in parrallel with occusianal meetings to discuss merging and next steps)
-1. Draft Reevaluation (11.12.2025) (Done)
-2. Splitting Work into tasks (Done)
-3. Submitting Final Draft (16.12.2025) (Done)
-4. ~~Setting up Milestones, Issues~~
-5. Milestone presentation (14.01.2025)
-6. Getting first prototyp running (Due)
-7. Group Milestone Meeting, New Work Split/Rebalancing 22.02.2026
-8. Group Meeting 31.01.2026
-9. Group Meeting 09.02.2026 
-10. Having Running Project Best before 21.02.2026
-11. Final Presentation 24.02.2026
 
-----
-## Group Details
-
-- Group name: BingBong Airlines / WIP...
-- Group code: GO2
-- Group repository: [Github Repo](https://github.com/Halfdrownedrat/python-project)
-- Tutor responsible:  Florian Wunderlich (f.wunderlich01@stud.uni-goettingen.de)
-- Group team leader: Paul Stanisch
-**Group members:**
 
 
 | Real Name | Name on Github | Contact Adress of Choice |
 | -------- | -------- | -------- |
-| Paul Stanisch    | Halfdrownedrat     | paul.stanisch@stud.uni-goettingen.de  (Do not use the email that I have my github with)  |
-| Mayada Abdel Rahman     | pythondoda95     | mayada.abdelrahman@stud.uni-goettingen.de     |
-| Felix Fischer     | FFischerr     | felix.fischer06@stud.uni-goettingen.de     |
-| Arthur Hirsch     | almostdrownedrat     | artur.hirsch@stud.uni-goettingen.de     |
-| Irem Ebrar  Yalcinkaya  | iremebrar     | i.yalcinkaya@stud.uni-goettingen.de     |
+| Paul Stanisch    | Halfdrownedrat     
+| Mayada Abdel Rahman     | pythondoda95    |
+| Felix Fischer     | FFischerr   |
+| Arthur Hirsch     | almostdrownedrat    
+| Irem Ebrar  Yalcinkaya  | iremebrar    
 
 
-**Project Contributions**
 
-(No Guarantee for completion. Code Parts should always be marked with the respective contributer (In the Docstring))
-- Login System (Mayada)
-- Statistics (Felix & Paul)
-- Read in and validate file (Irem)
-- Modify file + AdminFile (Artur) 
-- Data Structure (Paul)
-- Command Line Interface (Felix)
-- ~~Graphical User Interface~~
-- Tie parts together using CLI (Felix)
-- Admin Account Verifciation (Artur / Irem)
-- Seat Booking itself (Artur / Irem)
-- Bundling Project into Executable (Paul) (Maybe)
 
-----
-## Acknowlegdments
 
-The Following Packages are currently planned to propably be used:
-- ~~Custom Tkinter (Modern Version Tkinter) for Graphics~~
-- (Pandas), Matplotlib for Analysis
-- typst for Compiling Statistics Ouput into nice PDF Files 
+
