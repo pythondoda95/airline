@@ -1,0 +1,28 @@
+[project]
+name = "BingBong-Airlines-Seat-Reservation"
+version = "0.0.1"
+authors = [
+    { name = "Paul Stanisch", email = "paul.stanisch@stud.uni-goettingen.de" }, 
+    { name = "Mayada Abdel Rahman", email = "mayada.abdelrahman@stud.uni-goettingen.de" },
+    { name = "Felix Fischer ", email = "felix.fischer06@stud.uni-goettingen.de" },
+    { name = "Arthur Hirsch", email = "artur.hirsch@stud.uni-goettingen.de" },
+    { name = "Irem Ebrar  Yalcinkaya", email = "i.yalcinkaya@stud.uni-goettingen.de" },
+    ]
+description = "Project by group GO2 for python course winter semester 25/26"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas~=2.0.0", 
+    "matplitlib~=3.10.0"
+    ]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/Halfdrownedrat/python-project"
+Issues = "https://github.com/Halfdrownedrat/python-project/issues"
